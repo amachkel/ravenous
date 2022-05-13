@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ravenous-react/static/css/main.5b375e1c.css",
+    "main.js": "/ravenous-react/static/js/main.9f284f8b.js",
+    "static/js/787.d43d5300.chunk.js": "/ravenous-react/static/js/787.d43d5300.chunk.js",
+    "static/media/background_search_desktop.jpg": "/ravenous-react/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpg",
+    "static/media/background_search_mobile.jpg": "/ravenous-react/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "index.html": "/ravenous-react/index.html",
+    "main.5b375e1c.css.map": "/ravenous-react/static/css/main.5b375e1c.css.map",
+    "main.9f284f8b.js.map": "/ravenous-react/static/js/main.9f284f8b.js.map",
+    "787.d43d5300.chunk.js.map": "/ravenous-react/static/js/787.d43d5300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b375e1c.css",
+    "static/js/main.9f284f8b.js"
+  ]
+}
